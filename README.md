@@ -1,2 +1,2 @@
-# datasets_for_pandas
-Jeu de données pour des mainpulations avec pandas
+# Datasets
+Ce répertoire contient l'ensemble des jeux de donnés utilisés dans les didacticiels du dépôt [learn_data_science]().
