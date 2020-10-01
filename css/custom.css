@@ -1,0 +1,27 @@
+div {
+	border: 1px solid black;
+}
+
+#first {
+	height: 500px;
+}
+
+#second {
+	height: 350px;
+}
+
+#third {
+	height: 400px;
+}
+
+.indicators {
+	height: 90px;
+}
+
+.lineplot {
+	height: 410px;
+}
+
+.pie {
+	height: 250px;
+}
