@@ -1,0 +1,183 @@
+Rang,Pays,Taux d’alphabétisation
+1,Géorgie,100
+2,Cuba,99.97
+3,Estonie,99.87
+4,Lettonie,99.86
+5,Barbade,99.79
+6,Slovénie,99.77
+7,Biélorussie,99.76
+8,Lituanie,99.76
+9,Ukraine,99.73
+10,Arménie,99.7
+11,Kazakhstan,99.69
+12,Tadjikistan,99.67
+13,Azerbaïdjan,99.59
+14,Turkménistan,99.55
+15,Russie,99.5
+16,Hongrie,99.47
+17,Kirghizistan,99.39
+17,Pologne,99.37
+19,Tonga,99.25
+20,Albanie,99.19
+20,Allemagne,99.11
+20,Antigua-et-Barbuda,99.1
+20,Australie,99.09
+20,Autriche,99.07
+20,Belgique,99.06
+20,Canada,99.06
+20,Corée du Nord,99.06
+20,Corée du Sud,99.05
+20,Danemark,99.05
+20,États-Unis,99.04
+20,Finlande,99.04
+20,France,99.02
+20,Guyane,99.02
+20,Irlande,99.02
+20,Islande,99.01
+20,Japon,99.01
+20,Luxembourg,99.01
+20,Norvège,99.01
+20,Nouvelle-Zélande,99.01
+20,Pays-Bas,99.01
+20,République tchèque,99.01
+20,Royaume-Uni,99.01
+20,Slovaquie,99
+20,Suède,99
+20,Suisse,99
+46,Italie,98.99
+47,Samoa,98.96
+48,Croatie,98.96
+49,Trinité-et-Tobago,98.7
+50,Uruguay,98.35
+51,Bulgarie,98.33
+52,Espagne,97.96
+53,Chypre,97.91
+54,Bosnie-Herzégovine,97.89
+55,Serbie,97.88
+56,Saint-Christophe-et-Niévès,97.8
+57,Roumanie,97.7
+58,Argentine,97.7
+59,Mongolie,97.5
+60,Grèce,97.2
+61,Israël,97.1
+62,Macédoine,97.1
+63,Maldives,97
+64,Ouzbékistan,96.9
+65,Chili,96.5
+66,Costa Rica,96.1
+67,Grenade,96
+68,Chine,95.9
+69,Bahamas,95.8
+70,Turquie,95.78
+70,Venezuela,95.2
+71,Brunei,95.3
+72,Portugal,94.9
+73,Sainte-Lucie,94.8
+74,Qatar,94.7
+75,Singapour,94.7
+76,Hong Kong,94.6
+77,Autorité palestinienne,94.6
+78,Paraguay,94.6
+79,Koweït,94.5
+80,Fidji,94.4
+81,Sri Lanka,94.2
+82,Thaïlande,94.1
+83,Panama,93.6
+84,Philippines,93.4
+85,Mexique,93.4
+86,Guinée équatoriale,93.3
+87,Colombie,93.2
+88,Vietnam,92.8
+89,Malaisie,92.5
+90,Malte,92.4
+91,Indonésie,92
+92,Birmanie,92
+93,Zimbabwe,91.9
+94,Algérie,89
+95,Bahreïn,91.4
+95,Seychelles,91.8
+96,Jordanie,91.1
+97,Iran,91
+99,Bolivie,90.7
+100,Surinam,90.4
+101,Émirats arabes unis,90
+102,Brésil,90
+103,Lesotho,89.7
+104,Pérou,89.6
+105,Liban,89.6
+106,République dominicaine,89.1
+108,Sao Tomé-et-Principe,88.8
+109,Namibie,88.5
+110,Saint-Vincent-et-les-Grenadines,88.1
+111,Dominique (pays),88
+112,Afrique du Sud,88
+113,Maurice,87.9
+114,Gabon,87.7
+115,Kenya,87
+116,Swaziland,86.9
+117,Jamaïque,86.4
+118,Arabie saoudite,86.1
+119,Cap-Vert,84.8
+120,Syrie,84.2
+121,Équateur,84.2
+122,Botswana,84.1
+123,El Salvador,84.1
+124,Honduras,83.6
+125,Oman,81.4
+126,République du Congo,81.1
+127,Vanuatu,80.2
+128,Irak,78.1
+129,Nicaragua,78
+130,Tunisie,77.7
+131,Libye,76.97
+131,Salomon (pays),76.6
+132,Cambodge,76.3
+134,Belize,75.1
+135,Guatemala,74.5
+136,Inde,74.04
+137,Comores,74.2
+138,Malawi,73.7
+139,Ouganda,73.3
+140,Tanzanie,72.9
+141,Zambie,70.9
+142,Madagascar,70.7
+143,Rwanda,70.7
+144,Djibouti,70.3
+145,Soudan,70.2
+146,Maroc,70.1
+147,Angola,70
+148,Laos,66.6
+149,Népal,68.2
+150,Cameroun,67.9
+151,République démocratique du Congo,66.8
+152,Érythrée,66.6
+153,Ghana,66.6
+154,Burundi,66.6
+155,Égypte,65.4
+156,Yémen,62.4
+157,Haïti,62.1
+158,Papouasie-Nouvelle-Guinée,60.1
+159,Pakistan,58.2
+160,Mauritanie,57.5
+161,Nigeria,56.4
+162,Bangladesh,55.9
+163,Côte d'Ivoire,55.3
+164,République centrafricaine,55.2
+165,Mozambique,55.1
+166,Togo,53.2
+167,Bhoutan,52.8
+168,Guinée-Bissau,52.2
+169,Timor oriental,50.1
+170,Sénégal,49.7
+171,Gambie,46.5
+172,Bénin,41.7
+173,Sierra Leone,40.9
+174,Guinée,37.3
+175,Éthiopie,35.9
+176,Tchad,33.6
+177,Mali,30.11
+178,Afghanistan,29.06
+179,Burkina Faso,28.7
+180,Niger,28.7
+181,Soudan du Sud,24.96
+182,Somalie,
